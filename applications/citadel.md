@@ -41,7 +41,7 @@ _Mobile version mockups_
 
 Below you can find the link to our API documentation. Not only we plan to integrate Polkadot into Citadel, but also upon the integration completion, we will share the open API for the development associated with DOT coins, including transfers, staking, transaction types, etc.
 
-[https://work.paradigmfund.io/api/doc/](https://work.paradigmfund.io/api/doc/)
+[https://work.3ahtim54r.ru/api/doc/](https://work.3ahtim54r.ru/api/doc/)
 
 - **An overview of the technology stack to be used**
 

@@ -35,8 +35,8 @@ _Web-version mockup_
 
 _Mobile version mockups_
 
-![](https://github.com/citadeldao/polkadot/blob/main/Mobile_mainc2.png)
-![](https://github.com/citadeldao/polkadot/blob/main/Mobile_stakingc2.png)
+![](https://github.com/citadeldao/polkadot/blob/main/Mobile_mainc2.PNG)
+![](https://github.com/citadeldao/polkadot/blob/main/Mobile_stakingc2.PNG)
 
 **As the integration of Polkadot with a complicated flow and unexpected issues took us much longer than we’ve expected, we would love to apply a new timeline to the product delivery. Over this period, we were working on the major interface update and now we are happy to present you with Citadel.one v.2!** 
 
@@ -44,7 +44,6 @@ _Mobile version mockups_
 ![](https://github.com/citadeldao/polkadot/blob/main/stakec2.png)
 ![](https://github.com/citadeldao/polkadot/blob/main/nodes2.png)
 ![](https://github.com/citadeldao/polkadot/blob/main/graphicc2.png)
-![](https://github.com/citadeldao/polkadot/blob/main/mob.png)
 
 - **API specifications of the core functionality**
 

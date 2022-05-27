@@ -117,9 +117,7 @@ Furthermore, we integrated the fiat gateway and instant cryptocurrency exchange 
 
 https://citadel.one/
 
-### **Polkadot Overview**
 
-https://medium.com/citadel-one/polkadot-overview-f7c4f06208ec
 
 ### **Legal Structure**
 
@@ -163,8 +161,8 @@ From our side, we are ready to make the part associated specifically with Polkad
 | 0a. | License | Apache 2.0 |
 | 0b. | Documentation | The described requirements fully cover the use cases and user interaction with the system.  [ 1. Create and import an address](https://paradigmcitadel.atlassian.net/wiki/external/1741783055/ZWI4NGNjMzgwNTNkNGMxN2EzZjJlOWE0NTQyZjE0MTY)  [2. Integration of staking](https://paradigmcitadel.atlassian.net/wiki/external/1742372869/YjE0ZmE5ZmRmM2VmNDU5NjhkYjViNjVhODZjY2YxMmM?atlOrigin=eyJpIjoiMTBiYWFhMzc3NGIyNGMxNDg1MGYzNzkwYjdmYmI5MTMiLCJwIjoiYyJ9) [3. Integration of transfers](https://paradigmcitadel.atlassian.net/wiki/external/1742209311/ODM1YTc1MGFjNTQ1NGI4Y2FjMDdlOWYyNTg5YmIwZWU?atlOrigin=eyJpIjoiMDRmZDk2ZWFhMjRiNGM1Mzk5NGIzM2IyYzU0YzRjNTkiLCJwIjoiYyJ9) [4. Price and market performance information](https://paradigmcitadel.atlassian.net/wiki/external/1741553682/MGQxZmI1NWIzMmVjNDc4M2ExNDA2OTJiMDk2MWUzNDA?atlOrigin=eyJpIjoiZTU0NzNkMzJhNzI1NGRlZDliNmVlZDY0YzQ5YTRhYjEiLCJwIjoiYyJ9) [5. Integration of transaction ](https://paradigmcitadel.atlassian.net/wiki/external/1745387542/Njk0NWRiNWUyOGY1NDlhZWFjYTYxZDA0OWQ3MzkwZDY?atlOrigin=eyJpIjoiMGNjMzU2NjU1ZGJkNDYzNzk5ZjU3NDVhYWJjMTk2NGIiLCJwIjoiYyJ9)|
 | 0c. | Testing Guide | Each epic describes testing opportunities.  [ 1. Create and import an address](https://paradigmcitadel.atlassian.net/wiki/external/1741783055/ZWI4NGNjMzgwNTNkNGMxN2EzZjJlOWE0NTQyZjE0MTY)  [2. Integration of staking](https://paradigmcitadel.atlassian.net/wiki/external/1742372869/YjE0ZmE5ZmRmM2VmNDU5NjhkYjViNjVhODZjY2YxMmM?atlOrigin=eyJpIjoiMTBiYWFhMzc3NGIyNGMxNDg1MGYzNzkwYjdmYmI5MTMiLCJwIjoiYyJ9) [3. Integration of transfers](https://paradigmcitadel.atlassian.net/wiki/external/1742209311/ODM1YTc1MGFjNTQ1NGI4Y2FjMDdlOWYyNTg5YmIwZWU?atlOrigin=eyJpIjoiMDRmZDk2ZWFhMjRiNGM1Mzk5NGIzM2IyYzU0YzRjNTkiLCJwIjoiYyJ9) [4. Price and market performance information](https://paradigmcitadel.atlassian.net/wiki/external/1741553682/MGQxZmI1NWIzMmVjNDc4M2ExNDA2OTJiMDk2MWUzNDA?atlOrigin=eyJpIjoiZTU0NzNkMzJhNzI1NGRlZDliNmVlZDY0YzQ5YTRhYjEiLCJwIjoiYyJ9) [5. Integration of transaction ](https://paradigmcitadel.atlassian.net/wiki/external/1745387542/Njk0NWRiNWUyOGY1NDlhZWFjYTYxZDA0OWQ3MzkwZDY?atlOrigin=eyJpIjoiMGNjMzU2NjU1ZGJkNDYzNzk5ZjU3NDVhYWJjMTk2NGIiLCJwIjoiYyJ9) |
-| 0d. | Docker | Access will be granted after several iterations |
-| 0e. | Article |  Press release will be prepared a few weeks before the official rollout of the network. The link to the article will be sent when ready
+| 0d. | Docker | Polkadot Network is integrated into Citadel.one - https://citadel.one/ |
+| 0e. | Article |  Press release will be prepared a few weeks before the official rollout of the network. https://medium.com/citadel-one/polkadot-overview-f7c4f06208ec |
 
 | **Number** | **Step** | **Specification** | **Detailed description** | **Team members involved** |
 | --- | --- | --- | --- | --- |

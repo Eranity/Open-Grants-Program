@@ -29,10 +29,6 @@ Citadel team believes Polkadot is unique by design. Very soon after the launch, 
 
 - **Mockups/designs of any UI components**
 
-_Web-version mockup_
-
-![](https://github.com/citadeldao/polkadot/blob/main/mainc2.png)
-
 _Mobile version mockups_
 
 ![](https://github.com/citadeldao/polkadot/blob/main/Mobile_mainc2.PNG)
@@ -40,9 +36,9 @@ _Mobile version mockups_
 
 **As the integration of Polkadot with a complicated flow and unexpected issues took us much longer than we’ve expected, we would love to apply a new timeline to the product delivery. Over this period, we were working on the major interface update and now we are happy to present you with Citadel.one v.2!** 
 
-
+![](https://github.com/citadeldao/polkadot/blob/main/mainc2.png)
 ![](https://github.com/citadeldao/polkadot/blob/main/stakec2.png)
-![](https://github.com/citadeldao/polkadot/blob/main/nodes2.png)
+![](https://github.com/citadeldao/polkadot/blob/main/nodesс2.png)
 ![](https://github.com/citadeldao/polkadot/blob/main/graphicc2.png)
 
 - **API specifications of the core functionality**
@@ -120,6 +116,10 @@ Furthermore, we integrated the fiat gateway and instant cryptocurrency exchange 
 ### **Team Website**
 
 https://citadel.one/
+
+### **Polkadot Overview**
+
+https://medium.com/citadel-one/polkadot-overview-f7c4f06208ec
 
 ### **Legal Structure**
 
